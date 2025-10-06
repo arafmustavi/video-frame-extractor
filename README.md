@@ -1,7 +1,7 @@
 # video-frame-extractor
 video frame extraction from a clip for dataset creation.
 
-`frame-generator.py` generates all the frames from a sample video that will be saved into ```extracted-frames``` directory.
+`generate_video_to_frame.py` generates all the frames from a sample video that will be saved into ```extracted-frames``` directory.
 
 ## Dependency and Installation of Packages :
 
@@ -23,6 +23,6 @@ python3 frame-generator.py
 - you should see the frames of your video clips extracted into `extracted-frames` directory.
 
 ## Acknowledgement :
-In the process of writing this frame-generator.py code the following links helped a lot. You can check them out.
+In the process of writing this `generate_video_to_frame.py` code the following links helped a lot. You can check them out.
 - [thispointer](https://thispointer.com/how-to-create-a-directory-in-python/)
 - [stackoverflow](https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames)
